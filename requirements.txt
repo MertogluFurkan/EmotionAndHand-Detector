@@ -1,0 +1,2 @@
+# Tüm Python bağımlılıkları backend/requirements.txt içindedir
+# Kurulum: cd backend && pip install -r requirements.txt
